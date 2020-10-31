@@ -1,0 +1,58 @@
+@media screen and (max-width:1199px)
+{
+    .paragraph-about {
+        margin-top: 20px !important;
+    }
+}
+
+@media screen and (max-width:991px)
+{
+    .paragraph-about{
+        margin-top: 0px !important;
+        font-size: smaller;
+    }
+
+    .text-justify{
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width:767px)
+{
+    .paragraph-about{
+        font-size: medium;
+    }
+
+    .img-thumbnail{
+        margin-left: 150px !important;
+    }
+}
+
+@media screen and (max-width:500px)
+{
+    .img-thumbnail{
+        margin-left: 120px !important;
+    }
+}
+
+@media screen and (max-width:425px)
+{
+    .img-thumbnail{
+        margin-left: 100px !important;
+    }
+}
+
+
+@media screen and (max-width:375px)
+{
+    .img-thumbnail{
+        margin-left: 70px !important;
+    }
+}
+
+@media screen and (max-width:370px)
+{
+    .img-thumbnail{
+        margin-top:-70px;
+    }
+}
